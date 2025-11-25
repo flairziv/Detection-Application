@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="models/buff.bin">models/buff.bin</file>
+        <file alias="models/buff.xml">models/buff.xml</file>
+        <file alias="themes/light.qss">themes/light.qss</file>
+        <file alias="themes/moonlight.qss">themes/moonlight.qss</file>
+        <file alias="icons/save">icons/保存.png</file>
+        <file alias="icons/export">icons/导出.png</file>
+        <file alias="icons/video">icons/视频.png</file>
+        <file alias="icons/stop">icons/停止.png</file>
+        <file alias="icons/image">icons/图片.png</file>
+        <file alias="icons/pause">icons/暂停.png</file>
+        <file alias="icons/play">icons/播放.png</file>
+    </qresource>
+</RCC>
