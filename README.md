@@ -14,7 +14,7 @@
 
 1. 克隆仓库并进入项目目录：
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:flairziv/Detection-Application.git
 cd Detection   # 或项目根目录
 ```
 
